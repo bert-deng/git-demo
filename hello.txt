@@ -7,4 +7,4 @@ hello wenqing! hello git!
 hello wenqing! hello git!
 hello wenqing! hello git!
 hello wenqing! hello git! master test
-hello wenqing! hello git!
+hello wenqing! hello git! hot-fix test
